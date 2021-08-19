@@ -1,0 +1,35 @@
+body {
+    background-color: lightgreen;
+    
+    
+    }
+    
+a:hover {
+    color: red;
+    background-color: yellow;font-size: larger;
+}
+.featured {
+  display:flex;
+  background-color:beige;
+  justify-content:space-between;
+}
+.section {
+  flex:30%;
+  border-style: dotted;
+}
+.section1 {
+  flex:30%;
+  background-color:blueviolet
+}
+.section2 {
+  flex:30%;
+  border-style: dotted;
+  background-color:crimson;
+}
+footer{
+
+  text-align: center;
+}
+footer ul li{
+  align-items: center;
+}
